@@ -18,7 +18,7 @@ User should be able to select the displayed unit:
 - show current Weather Description
 - Show current Temperature in selected unit
 - show current Wind Speed in selected unit
-- display all key-value pairs of the key `main`, in the response, by using any loop.
+- display all key-value pairs in the property - `main`, by using any loop.
 
 Feel free to use :
  - Your framework of choice
